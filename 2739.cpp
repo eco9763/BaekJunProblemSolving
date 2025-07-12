@@ -1,3 +1,6 @@
+
+//구구단 
+
 #include <stdio.h>
 
 int main(){
